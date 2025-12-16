@@ -81,7 +81,7 @@ const Home: React.FC<HomeProps> = ({ navigate }) => {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-6 w-full max-w-3xl">
               {/* Nút Quiz */}
               <a
-                href="https://mln131-quiz-game.vercel.app/"
+                href="https://vnr202-quiz-game.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative h-16 bg-gradient-to-r from-orange-500 to-rose-600 text-white font-bold rounded-2xl overflow-hidden shadow-lg shadow-orange-500/25 transition-all duration-300 hover:scale-105 hover:shadow-orange-500/40 flex items-center justify-center w-full"
