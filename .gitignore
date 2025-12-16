@@ -49,3 +49,5 @@ Thumbs.db
 backend/docs/index.faiss
 backend/docs/index.pkl
 .env
+*.MOV
+*.mov
