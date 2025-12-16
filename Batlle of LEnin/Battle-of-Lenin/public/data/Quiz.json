@@ -1,0 +1,1558 @@
+[
+  {
+    "type": "singlechoice",
+    "content": "1. Đại hội đại biểu toàn quốc lần thứ V của Đảng được tổ chức vào năm nào?",
+    "answers": [
+      { "content": "1981", "correct": false },
+      { "content": "1982", "correct": true },
+      { "content": "1985", "correct": false },
+      { "content": "1986", "correct": false }
+    ],
+    "explanation": "Đại hội V được tổ chức tháng 3-1982."
+  },
+  {
+    "type": "singlechoice",
+    "content": "2. Đại hội V diễn ra trong bối cảnh kinh tế đất nước như thế nào?",
+    "answers": [
+      { "content": "Kinh tế tăng trưởng cao", "correct": false },
+      { "content": "Kinh tế ổn định", "correct": false },
+      { "content": "Kinh tế lâm vào khủng hoảng", "correct": true },
+      { "content": "Kinh tế phát triển nhanh", "correct": false }
+    ],
+    "explanation": "Đầu thập niên 1980, kinh tế rơi vào trì trệ, khủng hoảng."
+  },
+  {
+    "type": "singlechoice",
+    "content": "3. Nhiệm vụ trung tâm của thời kỳ quá độ được Đại hội V xác định là gì?",
+    "answers": [
+      { "content": "Hội nhập kinh tế quốc tế", "correct": false },
+      { "content": "Công nghiệp hóa xã hội chủ nghĩa", "correct": true },
+      { "content": "Phát triển dịch vụ", "correct": false },
+      { "content": "Phát triển kinh tế tư nhân", "correct": false }
+    ],
+    "explanation": "Đại hội V tiếp tục xác định CNH XHCN là nhiệm vụ trung tâm."
+  },
+  {
+    "type": "singlechoice",
+    "content": "4. Mô hình kinh tế chủ yếu trước đổi mới là gì?",
+    "answers": [
+      { "content": "Kinh tế thị trường", "correct": false },
+      { "content": "Kinh tế hỗn hợp", "correct": false },
+      { "content": "Kinh tế kế hoạch hóa tập trung", "correct": true },
+      { "content": "Kinh tế tư bản", "correct": false }
+    ],
+    "explanation": "Nền kinh tế vận hành theo cơ chế tập trung quan liêu bao cấp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "5. Hạn chế lớn nhất của cơ chế quản lý kinh tế trước đổi mới là gì?",
+    "answers": [
+      { "content": "Thiếu vốn", "correct": false },
+      { "content": "Triệt tiêu động lực sản xuất", "correct": true },
+      { "content": "Thiếu lao động", "correct": false },
+      { "content": "Thiếu khoa học công nghệ", "correct": false }
+    ],
+    "explanation": "Cơ chế bao cấp làm giảm tính chủ động, sáng tạo."
+  },
+
+  {
+    "type": "singlechoice",
+    "content": "6. Đại hội V đã bước đầu đề cập đến yêu cầu gì trong quản lý kinh tế?",
+    "answers": [
+      { "content": "Đổi mới tư duy kinh tế", "correct": true },
+      { "content": "Tư nhân hóa", "correct": false },
+      { "content": "Xóa bỏ kế hoạch", "correct": false },
+      { "content": "Giảm vai trò Nhà nước", "correct": false }
+    ],
+    "explanation": "Đại hội V đặt nền móng cho đổi mới tư duy kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "7. Chủ trương khoán sản phẩm trong nông nghiệp được thể hiện rõ nhất qua chính sách nào?",
+    "answers": [
+      { "content": "Khoán 10", "correct": false },
+      { "content": "Khoán 100", "correct": true },
+      { "content": "Nghị quyết 10", "correct": false },
+      { "content": "Chỉ thị 100", "correct": false }
+    ],
+    "explanation": "Khoán 100 ban hành năm 1981."
+  },
+  {
+    "type": "singlechoice",
+    "content": "8. Khoán 100 chủ yếu giao khoán đến đối tượng nào?",
+    "answers": [
+      { "content": "Hộ gia đình", "correct": false },
+      { "content": "Nhóm lao động và người lao động", "correct": true },
+      { "content": "Doanh nghiệp tư nhân", "correct": false },
+      { "content": "Chính quyền địa phương", "correct": false }
+    ],
+    "explanation": "Khoán đến nhóm và người lao động trong HTX."
+  },
+  {
+    "type": "singlechoice",
+    "content": "9. Kết quả bước đầu của Khoán 100 là gì?",
+    "answers": [
+      { "content": "Nông nghiệp suy giảm", "correct": false },
+      { "content": "Sản xuất có chuyển biến tích cực", "correct": true },
+      { "content": "HTX tan rã", "correct": false },
+      { "content": "Mất cân đối lương thực", "correct": false }
+    ],
+    "explanation": "Khoán 100 tạo động lực ban đầu cho sản xuất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "10. Hạn chế của Khoán 100 là gì?",
+    "answers": [
+      { "content": "Khoán chưa đến hộ gia đình", "correct": true },
+      { "content": "Xóa bỏ HTX", "correct": false },
+      { "content": "Làm mất vai trò Nhà nước", "correct": false },
+      { "content": "Tư nhân hóa đất đai", "correct": false }
+    ],
+    "explanation": "Khoán chưa triệt để, chưa giao quyền cho hộ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "11. Đại hội V xác định thời kỳ quá độ lên CNXH ở Việt Nam có đặc điểm gì nổi bật?",
+    "answers": [
+      { "content": "Ngắn và thuận lợi", "correct": false },
+      { "content": "Kéo dài, phức tạp", "correct": true },
+      { "content": "Không cần cải cách kinh tế", "correct": false },
+      { "content": "Phụ thuộc hoàn toàn vào bên ngoài", "correct": false }
+    ],
+    "explanation": "Đại hội V nhận định thời kỳ quá độ ở Việt Nam lâu dài, nhiều khó khăn, phức tạp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "12. Đại hội V khẳng định lực lượng sản xuất của nước ta lúc bấy giờ như thế nào?",
+    "answers": [
+      { "content": "Phát triển cao", "correct": false },
+      { "content": "Hiện đại", "correct": false },
+      { "content": "Thấp kém, manh mún", "correct": true },
+      { "content": "Đồng bộ", "correct": false }
+    ],
+    "explanation": "Lực lượng sản xuất còn thấp, trình độ kỹ thuật lạc hậu."
+  },
+  {
+    "type": "singlechoice",
+    "content": "13. Sai lầm chủ yếu trong chỉ đạo kinh tế trước đổi mới là gì?",
+    "answers": [
+      { "content": "Thiếu nhân lực", "correct": false },
+      { "content": "Duy ý chí, nóng vội", "correct": true },
+      { "content": "Thiếu tài nguyên", "correct": false },
+      { "content": "Thiếu viện trợ", "correct": false }
+    ],
+    "explanation": "Sai lầm là chủ quan, duy ý chí, không xuất phát từ thực tiễn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "14. Cơ chế bao cấp thể hiện rõ nhất qua hình thức nào?",
+    "answers": [
+      { "content": "Giá cả thị trường", "correct": false },
+      { "content": "Cấp phát – giao nộp", "correct": true },
+      { "content": "Hợp đồng kinh tế", "correct": false },
+      { "content": "Đấu thầu", "correct": false }
+    ],
+    "explanation": "Cơ chế bao cấp thể hiện qua cấp phát vật tư, giao nộp sản phẩm."
+  },
+  {
+    "type": "singlechoice",
+    "content": "15. Đại hội V chủ trương ưu tiên phát triển ngành nào?",
+    "answers": [
+      { "content": "Dịch vụ", "correct": false },
+      { "content": "Công nghiệp nặng", "correct": false },
+      { "content": "Công nghiệp nhẹ và nông nghiệp", "correct": true },
+      { "content": "Tài chính", "correct": false }
+    ],
+    "explanation": "Ưu tiên ngành phục vụ đời sống và giải quyết lương thực."
+  },
+  {
+    "type": "singlechoice",
+    "content": "16. Vì sao cải tiến quản lý kinh tế trở thành yêu cầu cấp bách?",
+    "answers": [
+      { "content": "Thiếu lao động", "correct": false },
+      { "content": "Sản xuất trì trệ, đời sống khó khăn", "correct": true },
+      { "content": "Thiếu đất đai", "correct": false },
+      { "content": "Dân số giảm", "correct": false }
+    ],
+    "explanation": "Kinh tế trì trệ kéo dài, đời sống nhân dân rất khó khăn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "17. Đổi mới kinh tế thời kỳ 1982–1986 mang tính chất gì?",
+    "answers": [
+      { "content": "Toàn diện, triệt để", "correct": false },
+      { "content": "Thử nghiệm, từng bước", "correct": true },
+      { "content": "Đột ngột", "correct": false },
+      { "content": "Sao chép nước ngoài", "correct": false }
+    ],
+    "explanation": "Đổi mới còn mang tính thử nghiệm, chưa đồng bộ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "18. Lĩnh vực được đổi mới sớm nhất là gì?",
+    "answers": [
+      { "content": "Công nghiệp", "correct": false },
+      { "content": "Thương nghiệp", "correct": false },
+      { "content": "Nông nghiệp", "correct": true },
+      { "content": "Tài chính", "correct": false }
+    ],
+    "explanation": "Nông nghiệp được đổi mới sớm với Khoán 100."
+  },
+  {
+    "type": "singlechoice",
+    "content": "19. Khoán 100 ban hành dưới hình thức nào?",
+    "answers": [
+      { "content": "Luật", "correct": false },
+      { "content": "Chỉ thị", "correct": true },
+      { "content": "Hiến pháp", "correct": false },
+      { "content": "Sắc lệnh", "correct": false }
+    ],
+    "explanation": "Khoán 100 là Chỉ thị 100-CT/TW năm 1981."
+  },
+  {
+    "type": "singlechoice",
+    "content": "20. Khoán 100 có tác động lớn nhất đến yếu tố nào?",
+    "answers": [
+      { "content": "Quan hệ quốc tế", "correct": false },
+      { "content": "Động lực lao động", "correct": true },
+      { "content": "Ngân sách", "correct": false },
+      { "content": "Dân số", "correct": false }
+    ],
+    "explanation": "Khoán 100 tạo động lực lao động trong nông nghiệp."
+  },
+
+  {
+    "type": "singlechoice",
+    "content": "31. Trước đổi mới, sản xuất nông nghiệp thường xuyên gặp tình trạng gì?",
+    "answers": [
+      { "content": "Thừa lương thực", "correct": false },
+      { "content": "Thiếu lương thực", "correct": true },
+      { "content": "Xuất khẩu lớn", "correct": false },
+      { "content": "Ổn định", "correct": false }
+    ],
+    "explanation": "Nông nghiệp không đáp ứng đủ nhu cầu lương thực."
+  },
+  {
+    "type": "singlechoice",
+    "content": "32. Điểm hạn chế cơ bản của cải tiến quản lý kinh tế giai đoạn này là gì?",
+    "answers": [
+      { "content": "Làm quá nhanh", "correct": false },
+      { "content": "Chưa đồng bộ", "correct": true },
+      { "content": "Quá triệt để", "correct": false },
+      { "content": "Bỏ kế hoạch hóa", "correct": false }
+    ],
+    "explanation": "Cải tiến còn manh mún, thiếu tính hệ thống."
+  },
+  {
+    "type": "singlechoice",
+    "content": "33. Cơ chế cũ ảnh hưởng tiêu cực nhất đến ai?",
+    "answers": [
+      { "content": "Doanh nghiệp tư nhân", "correct": false },
+      { "content": "Người lao động", "correct": true },
+      { "content": "Nhà đầu tư nước ngoài", "correct": false },
+      { "content": "Giới trí thức", "correct": false }
+    ],
+    "explanation": "Cơ chế bao cấp triệt tiêu động lực của người lao động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "34. Lạm phát cao nhất xảy ra vào thời điểm nào?",
+    "answers": [
+      { "content": "1982–1983", "correct": false },
+      { "content": "1984–1985", "correct": false },
+      { "content": "1985–1986", "correct": true },
+      { "content": "1986–1987", "correct": false }
+    ],
+    "explanation": "Sau cải cách giá – lương – tiền 1985, lạm phát tăng mạnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "35. Cải cách giá – lương – tiền năm 1985 nhằm mục tiêu gì?",
+    "answers": [
+      { "content": "Hội nhập quốc tế", "correct": false },
+      { "content": "Ổn định đời sống", "correct": false },
+      { "content": "Kiềm chế lạm phát", "correct": true },
+      { "content": "Phát triển dịch vụ", "correct": false }
+    ],
+    "explanation": "Cải cách nhằm chống lạm phát và ổn định kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "36. Kết quả của cải cách giá – lương – tiền 1985 là gì?",
+    "answers": [
+      { "content": "Thành công hoàn toàn", "correct": false },
+      { "content": "Không có tác động", "correct": false },
+      { "content": "Gây lạm phát nặng hơn", "correct": true },
+      { "content": "Ổn định kinh tế", "correct": false }
+    ],
+    "explanation": "Cải cách thiếu đồng bộ làm lạm phát trầm trọng hơn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "37. Nguyên nhân thất bại của cải cách năm 1985 là gì?",
+    "answers": [
+      { "content": "Thiếu tiền", "correct": false },
+      { "content": "Thiếu đồng bộ và cơ chế phù hợp", "correct": true },
+      { "content": "Chiến tranh", "correct": false },
+      { "content": "Thiếu lao động", "correct": false }
+    ],
+    "explanation": "Cải cách chưa phù hợp cơ chế kinh tế thực tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "38. Đời sống nhân dân giai đoạn này như thế nào?",
+    "answers": [
+      { "content": "Không thay đổi", "correct": false },
+      { "content": "Được cải thiện rõ", "correct": false },
+      { "content": "Gặp nhiều khó khăn", "correct": true },
+      { "content": "Rất ổn định", "correct": false }
+    ],
+    "explanation": "Lạm phát cao khiến đời sống nhân dân rất khó khăn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "39. Thực tiễn 1982–1986 đặt ra yêu cầu gì cấp thiết?",
+    "answers": [
+      { "content": "Đổi mới chính trị trước", "correct": false },
+      { "content": "Đổi mới toàn diện", "correct": false },
+      { "content": "Đổi mới tư duy kinh tế", "correct": true },
+      { "content": "Từ bỏ CNXH", "correct": false }
+    ],
+    "explanation": "Thực tiễn buộc phải đổi mới tư duy kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "40. Đại hội V được xem là bước gì trong tiến trình đổi mới?",
+    "answers": [
+      { "content": "Bước ngoặt hoàn chỉnh", "correct": false },
+      { "content": "Bước chuẩn bị quan trọng", "correct": true },
+      { "content": "Bước kết thúc", "correct": false },
+      { "content": "Bước gián đoạn", "correct": false }
+    ],
+    "explanation": "Đại hội V là bước chuẩn bị cho đổi mới toàn diện."
+  },
+
+  {
+    "type": "singlechoice",
+    "content": "61. Sai lầm lớn trong nhận thức kinh tế trước đổi mới là gì?",
+    "answers": [
+      { "content": "Đánh giá thấp vai trò thị trường", "correct": true },
+      { "content": "Đánh giá cao kinh tế tư nhân", "correct": false },
+      { "content": "Mở cửa sớm", "correct": false },
+      { "content": "Tư nhân hóa", "correct": false }
+    ],
+    "explanation": "Chưa thừa nhận đúng vai trò của thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "62. Đổi mới kinh tế ban đầu tập trung vào khâu nào?",
+    "answers": [
+      { "content": "Phân phối", "correct": false },
+      { "content": "Sản xuất", "correct": true },
+      { "content": "Tiêu dùng", "correct": false },
+      { "content": "Xuất khẩu", "correct": false }
+    ],
+    "explanation": "Trọng tâm là tháo gỡ cho sản xuất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "63. Chủ trương giao quyền tự chủ nhằm mục đích gì?",
+    "answers": [
+      { "content": "Tăng kiểm soát", "correct": false },
+      { "content": "Phát huy tính chủ động", "correct": true },
+      { "content": "Xóa vai trò Nhà nước", "correct": false },
+      { "content": "Giảm kế hoạch", "correct": false }
+    ],
+    "explanation": "Giao quyền để khuyến khích sáng tạo, chủ động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "64. Bài học lớn nhất từ Khoán 100 là gì?",
+    "answers": [
+      { "content": "Phải khoán đến hộ", "correct": true },
+      { "content": "Phải xóa HTX", "correct": false },
+      { "content": "Phải bỏ kế hoạch", "correct": false },
+      { "content": "Phải tư nhân hóa", "correct": false }
+    ],
+    "explanation": "Khoán đến hộ mới phát huy hiệu quả."
+  },
+  {
+    "type": "singlechoice",
+    "content": "65. Thực tiễn đổi mới giai đoạn này mang tính gì?",
+    "answers": [
+      { "content": "Tự phát", "correct": false },
+      { "content": "Sao chép", "correct": false },
+      { "content": "Sáng tạo từ thực tiễn", "correct": true },
+      { "content": "Áp đặt", "correct": false }
+    ],
+    "explanation": "Đổi mới xuất phát từ thực tiễn trong nước."
+  },
+  {
+    "type": "singlechoice",
+    "content": "66. Nguyên nhân sâu xa của khủng hoảng kinh tế là gì?",
+    "answers": [
+      { "content": "Thiên tai", "correct": false },
+      { "content": "Chiến tranh", "correct": false },
+      { "content": "Cơ chế quản lý lạc hậu", "correct": true },
+      { "content": "Thiếu viện trợ", "correct": false }
+    ],
+    "explanation": "Cơ chế quản lý tập trung quan liêu là nguyên nhân chính."
+  },
+  {
+    "type": "singlechoice",
+    "content": "67. Đại hội V vẫn giữ vai trò nào của Nhà nước?",
+    "answers": [
+      { "content": "Điều tiết vĩ mô", "correct": true },
+      { "content": "Không can thiệp", "correct": false },
+      { "content": "Tư nhân hóa", "correct": false },
+      { "content": "Bỏ kế hoạch", "correct": false }
+    ],
+    "explanation": "Nhà nước vẫn giữ vai trò quản lý vĩ mô."
+  },
+  {
+    "type": "singlechoice",
+    "content": "68. Đổi mới kinh tế trước 1986 mang tính gì?",
+    "answers": [
+      { "content": "Đồng bộ", "correct": false },
+      { "content": "Cục bộ", "correct": true },
+      { "content": "Triệt để", "correct": false },
+      { "content": "Hoàn chỉnh", "correct": false }
+    ],
+    "explanation": "Đổi mới mới diễn ra ở một số lĩnh vực."
+  },
+  {
+    "type": "singlechoice",
+    "content": "69. Kết quả thực tiễn 1982–1986 góp phần trực tiếp vào việc gì?",
+    "answers": [
+      { "content": "Đại hội VII", "correct": false },
+      { "content": "Đại hội VI", "correct": true },
+      { "content": "Đại hội V", "correct": false },
+      { "content": "Đại hội IV", "correct": false }
+    ],
+    "explanation": "Thực tiễn là cơ sở cho đường lối đổi mới tại Đại hội VI."
+  },
+  {
+    "type": "singlechoice",
+    "content": "70. Đường lối đổi mới toàn diện được đề ra tại Đại hội nào?",
+    "answers": [
+      { "content": "IV", "correct": false },
+      { "content": "V", "correct": false },
+      { "content": "VI", "correct": true },
+      { "content": "VII", "correct": false }
+    ],
+    "explanation": "Đại hội VI (1986) đề ra đường lối đổi mới toàn diện."
+  },
+  {
+    "type": "singlechoice",
+    "content": "100. Ý nghĩa lịch sử lớn nhất của giai đoạn 1982–1986 là gì?",
+    "answers": [
+      { "content": "Kết thúc thời kỳ bao cấp", "correct": false },
+      { "content": "Chuẩn bị cơ sở thực tiễn cho đổi mới", "correct": true },
+      { "content": "Hoàn thành CNH", "correct": false },
+      { "content": "Ổn định kinh tế lâu dài", "correct": false }
+    ],
+    "explanation": "Giai đoạn này tạo tiền đề thực tiễn cho đổi mới 1986."
+  },
+  {
+    "type": "singlechoice",
+    "content": "1. Đại hội V đánh giá nền kinh tế nước ta đầu thập niên 80 đang ở tình trạng nào?",
+    "answers": [
+      { "content": "Phát triển ổn định", "correct": false },
+      { "content": "Tăng trưởng nhanh", "correct": false },
+      { "content": "Mất cân đối nghiêm trọng", "correct": true },
+      { "content": "Hội nhập sâu rộng", "correct": false }
+    ],
+    "explanation": "Đầu thập niên 80, nền kinh tế rơi vào mất cân đối nghiêm trọng, khủng hoảng kéo dài."
+  },
+  {
+    "type": "singlechoice",
+    "content": "2. Tư duy kinh tế trước đổi mới chủ yếu chịu ảnh hưởng của quan điểm nào?",
+    "answers": [
+      { "content": "Kinh tế thị trường tự do", "correct": false },
+      { "content": "Kế hoạch hóa tập trung cứng nhắc", "correct": true },
+      { "content": "Kinh tế hỗn hợp", "correct": false },
+      { "content": "Kinh tế mở", "correct": false }
+    ],
+    "explanation": "Tư duy kinh tế chịu ảnh hưởng nặng của cơ chế kế hoạch hóa tập trung, quan liêu, bao cấp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "3. Một trong những nội dung đổi mới quản lý kinh tế sau Đại hội V là gì?",
+    "answers": [
+      { "content": "Xóa bỏ hoàn toàn kế hoạch hóa", "correct": false },
+      { "content": "Kết hợp kế hoạch với thị trường", "correct": true },
+      { "content": "Tư nhân hóa doanh nghiệp nhà nước", "correct": false },
+      { "content": "Giảm vai trò kinh tế nhà nước", "correct": false }
+    ],
+    "explanation": "Đổi mới bước đầu theo hướng kết hợp kế hoạch với các yếu tố thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "4. Trước năm 1986, vai trò của thị trường trong nền kinh tế được nhìn nhận như thế nào?",
+    "answers": [
+      { "content": "Được coi là yếu tố quyết định", "correct": false },
+      { "content": "Được thừa nhận đầy đủ", "correct": false },
+      { "content": "Bị xem nhẹ, chưa được coi trọng đúng mức", "correct": true },
+      { "content": "Được sử dụng rộng rãi", "correct": false }
+    ],
+    "explanation": "Trước đổi mới, thị trường chưa được thừa nhận đúng vai trò trong nền kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "5. Khoán 100 góp phần thay đổi nhận thức nào của Đảng?",
+    "answers": [
+      { "content": "Về sở hữu tư nhân", "correct": false },
+      { "content": "Về động lực của người lao động", "correct": true },
+      { "content": "Về vai trò doanh nghiệp tư nhân", "correct": false },
+      { "content": "Về hội nhập quốc tế", "correct": false }
+    ],
+    "explanation": "Khoán 100 khẳng định vai trò động lực của người lao động trong sản xuất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "6. Khó khăn lớn nhất của cải cách kinh tế giai đoạn 1982–1986 là gì?",
+    "answers": [
+      { "content": "Thiếu kinh nghiệm quản lý", "correct": false },
+      { "content": "Chưa có lý luận đổi mới đầy đủ", "correct": true },
+      { "content": "Thiếu sự lãnh đạo của Đảng", "correct": false },
+      { "content": "Thiếu nhân lực chất lượng cao", "correct": false }
+    ],
+    "explanation": "Đổi mới diễn ra khi chưa có hệ thống lý luận đổi mới hoàn chỉnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "7. Giai đoạn 1982–1986 cho thấy đổi mới kinh tế cần phải gắn với yếu tố nào?",
+    "answers": [
+      { "content": "Đổi mới quân sự", "correct": false },
+      { "content": "Đổi mới chính trị", "correct": false },
+      { "content": "Đổi mới tư duy và cơ chế quản lý", "correct": true },
+      { "content": "Đổi mới đối ngoại", "correct": false }
+    ],
+    "explanation": "Đổi mới kinh tế đòi hỏi đổi mới tư duy và cơ chế quản lý phù hợp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "8. Thực tiễn đổi mới nông nghiệp trước 1986 chứng minh điều gì?",
+    "answers": [
+      { "content": "Hợp tác xã không cần thiết", "correct": false },
+      { "content": "Khoán là biện pháp tạm thời", "correct": false },
+      { "content": "Phải tôn trọng quy luật kinh tế khách quan", "correct": true },
+      { "content": "Nhà nước không cần quản lý", "correct": false }
+    ],
+    "explanation": "Thực tiễn chứng minh phải tôn trọng quy luật kinh tế khách quan."
+  },
+  {
+    "type": "singlechoice",
+    "content": "9. Một hạn chế trong đổi mới kinh tế giai đoạn này là gì?",
+    "answers": [
+      { "content": "Thiếu quyết tâm chính trị", "correct": false },
+      { "content": "Đổi mới quá nhanh", "correct": false },
+      { "content": "Chưa hình thành tư duy kinh tế mới một cách hệ thống", "correct": true },
+      { "content": "Thiếu nguồn vốn nước ngoài", "correct": false }
+    ],
+    "explanation": "Đổi mới còn rời rạc, thiếu một tư duy kinh tế mới hoàn chỉnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "10. Ý nghĩa quan trọng của những bước đổi mới trước Đại hội VI là gì?",
+    "answers": [
+      { "content": "Đưa đất nước thoát khủng hoảng", "correct": false },
+      { "content": "Hoàn thiện mô hình kinh tế mới", "correct": false },
+      { "content": "Làm cơ sở lý luận cho đổi mới", "correct": false },
+      { "content": "Cung cấp thực tiễn để hoạch định đường lối đổi mới toàn diện", "correct": true }
+    ],
+    "explanation": "Những bước đổi mới cung cấp cơ sở thực tiễn cho đường lối đổi mới tại Đại hội VI."
+  },
+  {
+    "type": "singlechoice",
+    "content": "101. Đại hội V nhìn nhận việc cải tạo xã hội chủ nghĩa đối với kinh tế cá thể còn tồn tại vấn đề gì?",
+    "answers": [
+      { "content": "Quá triệt để, làm mất động lực", "correct": true },
+      { "content": "Chưa tiến hành", "correct": false },
+      { "content": "Thực hiện quá chậm", "correct": false },
+      { "content": "Hoàn toàn phù hợp", "correct": false }
+    ],
+    "explanation": "Cải tạo quá triệt để làm giảm động lực sản xuất của kinh tế cá thể."
+  },
+  {
+    "type": "singlechoice",
+    "content": "102. Trong giai đoạn 1982–1986, nguyên tắc phân phối chủ yếu vẫn dựa trên cơ sở nào?",
+    "answers": [
+      { "content": "Theo vốn góp", "correct": false },
+      { "content": "Theo nhu cầu", "correct": false },
+      { "content": "Theo lao động", "correct": true },
+      { "content": "Theo thị trường", "correct": false }
+    ],
+    "explanation": "Nguyên tắc phân phối chủ yếu vẫn là theo lao động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "103. Một trong những biểu hiện của trì trệ kinh tế trước đổi mới là gì?",
+    "answers": [
+      { "content": "Sản xuất tăng nhanh nhưng lạm phát thấp", "correct": false },
+      { "content": "Hàng hóa khan hiếm, lưu thông ách tắc", "correct": true },
+      { "content": "Xuất khẩu tăng mạnh", "correct": false },
+      { "content": "Thu nhập dân cư tăng cao", "correct": false }
+    ],
+    "explanation": "Kinh tế trì trệ thể hiện ở tình trạng khan hiếm hàng hóa, lưu thông kém."
+  },
+  {
+    "type": "singlechoice",
+    "content": "104. Giai đoạn 1982–1986 cho thấy việc quản lý kinh tế bằng mệnh lệnh hành chính dẫn đến hệ quả gì?",
+    "answers": [
+      { "content": "Tăng hiệu quả sản xuất", "correct": false },
+      { "content": "Giảm chi phí quản lý", "correct": false },
+      { "content": "Làm méo mó các quan hệ kinh tế", "correct": true },
+      { "content": "Ổn định giá cả", "correct": false }
+    ],
+    "explanation": "Quản lý bằng mệnh lệnh hành chính làm sai lệch các quan hệ kinh tế khách quan."
+  },
+  {
+    "type": "singlechoice",
+    "content": "105. Đại hội V chủ trương từng bước đổi mới nhằm mục tiêu trước hết là gì?",
+    "answers": [
+      { "content": "Hội nhập kinh tế quốc tế", "correct": false },
+      { "content": "Ổn định sản xuất và đời sống nhân dân", "correct": true },
+      { "content": "Thu hút đầu tư nước ngoài", "correct": false },
+      { "content": "Phát triển kinh tế tư nhân", "correct": false }
+    ],
+    "explanation": "Mục tiêu trước hết là ổn định sản xuất và cải thiện đời sống nhân dân."
+  },
+  {
+    "type": "singlechoice",
+    "content": "106. Một hạn chế trong tổ chức thực hiện các chủ trương kinh tế sau Đại hội V là gì?",
+    "answers": [
+      { "content": "Thiếu nghị quyết", "correct": false },
+      { "content": "Thiếu cán bộ lãnh đạo", "correct": false },
+      { "content": "Thiếu sự phối hợp đồng bộ giữa các ngành, các cấp", "correct": true },
+      { "content": "Thiếu luật pháp", "correct": false }
+    ],
+    "explanation": "Việc tổ chức thực hiện thiếu đồng bộ giữa các ngành và địa phương."
+  },
+  {
+    "type": "singlechoice",
+    "content": "107. Thực tiễn cải tiến quản lý kinh tế giai đoạn này cho thấy cần thay đổi điều gì căn bản?",
+    "answers": [
+      { "content": "Hình thức sở hữu", "correct": false },
+      { "content": "Phương thức lãnh đạo của Đảng", "correct": false },
+      { "content": "Cơ chế quản lý và tư duy kinh tế", "correct": true },
+      { "content": "Mục tiêu phát triển", "correct": false }
+    ],
+    "explanation": "Cần đổi mới căn bản tư duy và cơ chế quản lý kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "108. Giai đoạn 1982–1986 chứng minh yếu tố nào giữ vai trò quyết định trong phát triển kinh tế?",
+    "answers": [
+      { "content": "Viện trợ quốc tế", "correct": false },
+      { "content": "Tài nguyên thiên nhiên", "correct": false },
+      { "content": "Con người và động lực kinh tế", "correct": true },
+      { "content": "Quy mô dân số", "correct": false }
+    ],
+    "explanation": "Con người và động lực kinh tế là yếu tố quyết định sự phát triển."
+  },
+  {
+    "type": "singlechoice",
+    "content": "109. Một kết quả quan trọng của đổi mới nông nghiệp trước 1986 là gì?",
+    "answers": [
+      { "content": "Hình thành kinh tế hộ gia đình độc lập", "correct": true },
+      { "content": "Tăng cường bao cấp", "correct": false },
+      { "content": "Xóa bỏ hợp tác xã", "correct": false },
+      { "content": "Tư nhân hóa đất đai", "correct": false }
+    ],
+    "explanation": "Đổi mới nông nghiệp làm xuất hiện và phát huy vai trò kinh tế hộ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "110. Ý nghĩa lý luận lớn nhất rút ra từ giai đoạn đổi mới kinh tế trước Đại hội VI là gì?",
+    "answers": [
+      { "content": "Khẳng định vai trò kinh tế tư nhân", "correct": false },
+      { "content": "Khẳng định kinh tế thị trường là mục tiêu cuối cùng", "correct": false },
+      { "content": "Khẳng định cần đổi mới tư duy kinh tế phù hợp thực tiễn Việt Nam", "correct": true },
+      { "content": "Khẳng định cần giảm vai trò Nhà nước", "correct": false }
+    ],
+    "explanation": "Đổi mới tư duy kinh tế phù hợp thực tiễn Việt Nam là ý nghĩa lý luận lớn nhất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "111. Đại hội V nhận định nguyên nhân chủ quan quan trọng dẫn đến khó khăn kinh tế là gì?",
+    "answers": [
+      { "content": "Thiếu vốn đầu tư", "correct": false },
+      { "content": "Quản lý yếu kém, tư duy kinh tế lạc hậu", "correct": true },
+      { "content": "Thiếu thị trường tiêu thụ", "correct": false },
+      { "content": "Dân số tăng nhanh", "correct": false }
+    ],
+    "explanation": "Nguyên nhân chủ quan quan trọng là quản lý yếu kém và tư duy kinh tế lạc hậu."
+  },
+  {
+    "type": "singlechoice",
+    "content": "112. Trong giai đoạn 1982–1986, việc cải tiến quản lý kinh tế chủ yếu được thực hiện theo hướng nào?",
+    "answers": [
+      { "content": "Tăng cường bao cấp", "correct": false },
+      { "content": "Phân quyền hợp lý cho cơ sở", "correct": true },
+      { "content": "Tư nhân hóa doanh nghiệp", "correct": false },
+      { "content": "Xóa bỏ kế hoạch", "correct": false }
+    ],
+    "explanation": "Cải tiến quản lý theo hướng phân quyền, giao quyền chủ động cho cơ sở."
+  },
+  {
+    "type": "singlechoice",
+    "content": "113. Trước đổi mới, mối quan hệ giữa kế hoạch và thị trường được nhìn nhận như thế nào?",
+    "answers": [
+      { "content": "Hoàn toàn tách rời", "correct": false },
+      { "content": "Thị trường giữ vai trò quyết định", "correct": false },
+      { "content": "Kế hoạch được tuyệt đối hóa", "correct": true },
+      { "content": "Kết hợp linh hoạt", "correct": false }
+    ],
+    "explanation": "Kế hoạch hóa tập trung được tuyệt đối hóa, xem nhẹ vai trò thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "114. Một biểu hiện của tư duy kinh tế cũ là gì?",
+    "answers": [
+      { "content": "Tôn trọng quy luật giá trị", "correct": false },
+      { "content": "Xem nhẹ lợi ích kinh tế của người lao động", "correct": true },
+      { "content": "Khuyến khích cạnh tranh", "correct": false },
+      { "content": "Đề cao hiệu quả kinh tế", "correct": false }
+    ],
+    "explanation": "Tư duy cũ coi nhẹ lợi ích kinh tế và động lực của người lao động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "115. Giai đoạn 1982–1986 cho thấy cải cách kinh tế không thể thành công nếu thiếu yếu tố nào?",
+    "answers": [
+      { "content": "Sự hỗ trợ quốc tế", "correct": false },
+      { "content": "Đổi mới tư duy lý luận", "correct": true },
+      { "content": "Tăng trưởng xuất khẩu", "correct": false },
+      { "content": "Tư nhân hóa mạnh mẽ", "correct": false }
+    ],
+    "explanation": "Đổi mới tư duy lý luận là điều kiện tiên quyết cho cải cách kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "116. Một điểm tiến bộ trong nhận thức của Đảng sau Đại hội V là gì?",
+    "answers": [
+      { "content": "Phủ nhận hoàn toàn cơ chế cũ", "correct": false },
+      { "content": "Nhận thấy cần kết hợp kế hoạch với yếu tố thị trường", "correct": true },
+      { "content": "Từ bỏ mục tiêu CNXH", "correct": false },
+      { "content": "Giảm vai trò quản lý của Nhà nước", "correct": false }
+    ],
+    "explanation": "Đảng bước đầu nhận thức cần kết hợp kế hoạch với các yếu tố thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "117. Trong thực tiễn đổi mới nông nghiệp, yếu tố nào chứng tỏ có tác động trực tiếp đến năng suất?",
+    "answers": [
+      { "content": "Tăng diện tích đất canh tác", "correct": false },
+      { "content": "Giao khoán gắn với lợi ích người lao động", "correct": true },
+      { "content": "Tăng trợ cấp của Nhà nước", "correct": false },
+      { "content": "Tăng lao động cưỡng bức", "correct": false }
+    ],
+    "explanation": "Giao khoán gắn với lợi ích người lao động làm tăng năng suất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "118. Hạn chế chung của các biện pháp đổi mới kinh tế trước 1986 là gì?",
+    "answers": [
+      { "content": "Thiếu mục tiêu rõ ràng", "correct": false },
+      { "content": "Chưa hình thành một mô hình kinh tế hoàn chỉnh", "correct": true },
+      { "content": "Thiếu sự lãnh đạo của Đảng", "correct": false },
+      { "content": "Thiếu pháp luật", "correct": false }
+    ],
+    "explanation": "Đổi mới còn mang tính thử nghiệm, chưa hình thành mô hình kinh tế hoàn chỉnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "119. Thực tiễn giai đoạn 1982–1986 góp phần hình thành nhận thức nào cho Đảng?",
+    "answers": [
+      { "content": "Đổi mới chính trị phải đi trước", "correct": false },
+      { "content": "Đổi mới kinh tế là trọng tâm", "correct": true },
+      { "content": "Hội nhập quốc tế là điều kiện tiên quyết", "correct": false },
+      { "content": "Phát triển dịch vụ là chủ yếu", "correct": false }
+    ],
+    "explanation": "Thực tiễn cho thấy đổi mới kinh tế phải là trọng tâm."
+  },
+  {
+    "type": "singlechoice",
+    "content": "120. Nhận định nào phản ánh đúng ý nghĩa của Đại hội V đối với tiến trình đổi mới?",
+    "answers": [
+      { "content": "Là đại hội đổi mới toàn diện", "correct": false },
+      { "content": "Là đại hội hoàn thiện mô hình kinh tế mới", "correct": false },
+      { "content": "Là bước chuẩn bị về tư duy và thực tiễn cho đổi mới", "correct": true },
+      { "content": "Là đại hội mở cửa hội nhập", "correct": false }
+    ],
+    "explanation": "Đại hội V là bước chuẩn bị quan trọng về tư duy và thực tiễn cho đổi mới toàn diện."
+  },
+  {
+    "type": "singlechoice",
+    "content": "121. Đại hội V cho rằng khó khăn kinh tế kéo dài còn do nguyên nhân nào sau đây?",
+    "answers": [
+      { "content": "Nền kinh tế phụ thuộc quá nhiều vào xuất khẩu", "correct": false },
+      { "content": "Chậm đổi mới phương thức quản lý kinh tế", "correct": true },
+      { "content": "Thiếu tài nguyên thiên nhiên", "correct": false },
+      { "content": "Thiếu lao động có tay nghề", "correct": false }
+    ],
+    "explanation": "Khó khăn kéo dài do chậm đổi mới phương thức và cơ chế quản lý kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "122. Trước đổi mới, Nhà nước can thiệp vào hoạt động sản xuất – kinh doanh chủ yếu thông qua yếu tố nào?",
+    "answers": [
+      { "content": "Giá cả thị trường", "correct": false },
+      { "content": "Lãi suất", "correct": false },
+      { "content": "Chỉ tiêu pháp lệnh", "correct": true },
+      { "content": "Cạnh tranh", "correct": false }
+    ],
+    "explanation": "Nhà nước quản lý sản xuất bằng các chỉ tiêu pháp lệnh theo cơ chế bao cấp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "123. Việc giao quyền tự chủ cho cơ sở sản xuất nhằm giải quyết vấn đề gì là chủ yếu?",
+    "answers": [
+      { "content": "Thiếu vốn", "correct": false },
+      { "content": "Thiếu nguyên liệu", "correct": false },
+      { "content": "Giảm tính ỷ lại vào Nhà nước", "correct": true },
+      { "content": "Thiếu thị trường", "correct": false }
+    ],
+    "explanation": "Giao quyền tự chủ nhằm khắc phục tâm lý ỷ lại vào Nhà nước."
+  },
+  {
+    "type": "singlechoice",
+    "content": "124. Giai đoạn 1982–1986 cho thấy muốn đổi mới kinh tế có hiệu quả cần phải làm gì trước hết?",
+    "answers": [
+      { "content": "Thay đổi mục tiêu phát triển", "correct": false },
+      { "content": "Đổi mới tư duy và nhận thức kinh tế", "correct": true },
+      { "content": "Tăng viện trợ nước ngoài", "correct": false },
+      { "content": "Tư nhân hóa doanh nghiệp", "correct": false }
+    ],
+    "explanation": "Đổi mới tư duy là điều kiện tiên quyết cho đổi mới kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "125. Một biểu hiện của cơ chế tập trung quan liêu bao cấp là gì?",
+    "answers": [
+      { "content": "Doanh nghiệp tự quyết định lợi nhuận", "correct": false },
+      { "content": "Lãi – lỗ do doanh nghiệp chịu", "correct": false },
+      { "content": "Nhà nước bao cấp toàn bộ vật tư, giá cả", "correct": true },
+      { "content": "Thị trường điều tiết sản xuất", "correct": false }
+    ],
+    "explanation": "Cơ chế bao cấp thể hiện ở việc Nhà nước bao cấp toàn diện đầu vào và đầu ra."
+  },
+  {
+    "type": "singlechoice",
+    "content": "126. Trong nông nghiệp trước 1986, quan hệ phân phối chủ yếu mang tính gì?",
+    "answers": [
+      { "content": "Bình quân, cào bằng", "correct": true },
+      { "content": "Theo thị trường", "correct": false },
+      { "content": "Theo vốn góp", "correct": false },
+      { "content": "Theo hiệu quả", "correct": false }
+    ],
+    "explanation": "Phân phối mang tính bình quân, chưa gắn với hiệu quả lao động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "127. Khoán sản phẩm trong nông nghiệp đã góp phần khắc phục hạn chế nào của cơ chế cũ?",
+    "answers": [
+      { "content": "Thiếu đất canh tác", "correct": false },
+      { "content": "Thiếu lao động", "correct": false },
+      { "content": "Triệt tiêu động lực lao động", "correct": true },
+      { "content": "Thiếu vốn đầu tư", "correct": false }
+    ],
+    "explanation": "Khoán sản phẩm khơi dậy động lực lao động vốn bị triệt tiêu trước đó."
+  },
+  {
+    "type": "singlechoice",
+    "content": "128. Giai đoạn 1982–1986 chứng minh yếu tố nào là then chốt để thúc đẩy sản xuất?",
+    "answers": [
+      { "content": "Viện trợ quốc tế", "correct": false },
+      { "content": "Mệnh lệnh hành chính", "correct": false },
+      { "content": "Lợi ích kinh tế gắn với người lao động", "correct": true },
+      { "content": "Tăng cường bao cấp", "correct": false }
+    ],
+    "explanation": "Lợi ích kinh tế là động lực trực tiếp thúc đẩy sản xuất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "129. Một hạn chế lớn trong cải tiến quản lý kinh tế giai đoạn này là gì?",
+    "answers": [
+      { "content": "Thiếu nghị quyết", "correct": false },
+      { "content": "Đổi mới không đồng bộ giữa các ngành", "correct": true },
+      { "content": "Đổi mới quá nhanh", "correct": false },
+      { "content": "Thiếu mục tiêu", "correct": false }
+    ],
+    "explanation": "Cải tiến quản lý thiếu đồng bộ giữa các ngành, các cấp."
+  },
+  {
+    "type": "singlechoice",
+    "content": "130. Đại hội V vẫn đặt niềm tin chủ yếu vào khu vực kinh tế nào?",
+    "answers": [
+      { "content": "Kinh tế tư nhân", "correct": false },
+      { "content": "Kinh tế tập thể", "correct": false },
+      { "content": "Kinh tế nhà nước", "correct": true },
+      { "content": "Kinh tế có vốn nước ngoài", "correct": false }
+    ],
+    "explanation": "Kinh tế nhà nước vẫn được coi là giữ vai trò chủ đạo."
+  },
+  {
+    "type": "singlechoice",
+    "content": "131. Trước đổi mới, hiệu quả sản xuất – kinh doanh của doanh nghiệp nhà nước thường như thế nào?",
+    "answers": [
+      { "content": "Cao và ổn định", "correct": false },
+      { "content": "Thấp, nhiều đơn vị thua lỗ", "correct": true },
+      { "content": "Luôn có lãi", "correct": false },
+      { "content": "Phụ thuộc thị trường quốc tế", "correct": false }
+    ],
+    "explanation": "Nhiều doanh nghiệp nhà nước hoạt động kém hiệu quả, thua lỗ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "132. Việc đổi mới từng phần trong giai đoạn 1982–1986 cho thấy điều gì?",
+    "answers": [
+      { "content": "Không cần đổi mới toàn diện", "correct": false },
+      { "content": "Đổi mới cục bộ không đủ giải quyết khủng hoảng", "correct": true },
+      { "content": "Cơ chế cũ vẫn phù hợp", "correct": false },
+      { "content": "Kinh tế thị trường không cần thiết", "correct": false }
+    ],
+    "explanation": "Đổi mới cục bộ không thể giải quyết tận gốc khủng hoảng kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "133. Một trong những bài học quan trọng từ cải cách giá – lương – tiền năm 1985 là gì?",
+    "answers": [
+      { "content": "Phải cải cách nhanh", "correct": false },
+      { "content": "Phải cải cách đồng bộ các khâu", "correct": true },
+      { "content": "Phải tăng bao cấp", "correct": false },
+      { "content": "Phải giảm lương", "correct": false }
+    ],
+    "explanation": "Cải cách chỉ hiệu quả khi được tiến hành đồng bộ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "134. Giai đoạn 1982–1986 giúp Đảng nhận thức rõ hơn vai trò của yếu tố nào trong kinh tế?",
+    "answers": [
+      { "content": "Quân sự", "correct": false },
+      { "content": "Văn hóa", "correct": false },
+      { "content": "Thị trường", "correct": true },
+      { "content": "Đối ngoại", "correct": false }
+    ],
+    "explanation": "Thực tiễn cho thấy cần thừa nhận vai trò của thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "135. Một biểu hiện của khủng hoảng kinh tế – xã hội trước 1986 là gì?",
+    "answers": [
+      { "content": "Tăng trưởng xuất khẩu cao", "correct": false },
+      { "content": "Lạm phát kéo dài, đời sống khó khăn", "correct": true },
+      { "content": "Thặng dư ngân sách", "correct": false },
+      { "content": "Dư thừa hàng hóa", "correct": false }
+    ],
+    "explanation": "Lạm phát cao kéo dài khiến đời sống nhân dân gặp nhiều khó khăn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "136. Trong giai đoạn này, đổi mới kinh tế được tiến hành chủ yếu theo phương châm nào?",
+    "answers": [
+      { "content": "Làm nhanh, làm mạnh", "correct": false },
+      { "content": "Làm toàn diện ngay lập tức", "correct": false },
+      { "content": "Vừa làm vừa tìm tòi, rút kinh nghiệm", "correct": true },
+      { "content": "Sao chép mô hình nước ngoài", "correct": false }
+    ],
+    "explanation": "Đổi mới được tiến hành từng bước, vừa làm vừa tổng kết thực tiễn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "137. Thực tiễn đổi mới trước 1986 cho thấy không thể đồng nhất CNXH với yếu tố nào?",
+    "answers": [
+      { "content": "Kinh tế nhà nước", "correct": false },
+      { "content": "Kế hoạch hóa tập trung cứng nhắc", "correct": true },
+      { "content": "Vai trò lãnh đạo của Đảng", "correct": false },
+      { "content": "Công nghiệp hóa", "correct": false }
+    ],
+    "explanation": "CNXH không đồng nhất với cơ chế kế hoạch hóa tập trung cứng nhắc."
+  },
+  {
+    "type": "singlechoice",
+    "content": "138. Một hạn chế về tổ chức thực hiện đổi mới kinh tế giai đoạn này là gì?",
+    "answers": [
+      { "content": "Thiếu quyết tâm chính trị", "correct": false },
+      { "content": "Thiếu sự kiểm tra, tổng kết kịp thời", "correct": true },
+      { "content": "Thiếu nhân lực", "correct": false },
+      { "content": "Thiếu tài nguyên", "correct": false }
+    ],
+    "explanation": "Công tác kiểm tra, tổng kết thực tiễn chưa được tiến hành kịp thời."
+  },
+  {
+    "type": "singlechoice",
+    "content": "139. Giai đoạn 1982–1986 đã góp phần trực tiếp chuẩn bị cho sự kiện lịch sử nào?",
+    "answers": [
+      { "content": "Đại hội V", "correct": false },
+      { "content": "Đại hội VI", "correct": true },
+      { "content": "Đại hội VII", "correct": false },
+      { "content": "Đại hội VIII", "correct": false }
+    ],
+    "explanation": "Thực tiễn 1982–1986 là cơ sở trực tiếp cho Đại hội VI."
+  },
+  {
+    "type": "singlechoice",
+    "content": "140. Ý nghĩa thực tiễn quan trọng nhất của đổi mới kinh tế trước 1986 là gì?",
+    "answers": [
+      { "content": "Đưa kinh tế phát triển nhanh", "correct": false },
+      { "content": "Giải quyết triệt để khủng hoảng", "correct": false },
+      { "content": "Tích lũy kinh nghiệm để hoạch định đường lối đổi mới", "correct": true },
+      { "content": "Hoàn thiện mô hình kinh tế thị trường", "correct": false }
+    ],
+    "explanation": "Đổi mới trước 1986 tích lũy kinh nghiệm thực tiễn cho đường lối đổi mới toàn diện."
+  },
+  {
+    "type": "singlechoice",
+    "content": "141. Đại hội V xác định nhiệm vụ trước mắt của nền kinh tế là gì?",
+    "answers": [
+      { "content": "Phát triển công nghiệp nặng", "correct": false },
+      { "content": "Ổn định sản xuất, cải thiện đời sống", "correct": true },
+      { "content": "Hội nhập kinh tế quốc tế", "correct": false },
+      { "content": "Phát triển kinh tế tư nhân", "correct": false }
+    ],
+    "explanation": "Đại hội V xác định nhiệm vụ trước mắt là ổn định sản xuất và cải thiện đời sống nhân dân."
+  },
+  {
+    "type": "singlechoice",
+    "content": "142. Trước đổi mới, tình trạng phổ biến của nền kinh tế là gì?",
+    "answers": [
+      { "content": "Hàng hóa phong phú", "correct": false },
+      { "content": "Cung vượt cầu", "correct": false },
+      { "content": "Mất cân đối cung – cầu", "correct": true },
+      { "content": "Xuất siêu lớn", "correct": false }
+    ],
+    "explanation": "Nền kinh tế thường xuyên rơi vào tình trạng mất cân đối cung – cầu."
+  },
+  {
+    "type": "singlechoice",
+    "content": "143. Cơ chế quản lý cũ ảnh hưởng như thế nào đến tính sáng tạo của cơ sở sản xuất?",
+    "answers": [
+      { "content": "Khuyến khích sáng tạo", "correct": false },
+      { "content": "Không ảnh hưởng", "correct": false },
+      { "content": "Kìm hãm sáng tạo", "correct": true },
+      { "content": "Tăng cạnh tranh", "correct": false }
+    ],
+    "explanation": "Cơ chế tập trung quan liêu bao cấp kìm hãm tính sáng tạo của cơ sở."
+  },
+  {
+    "type": "singlechoice",
+    "content": "144. Giai đoạn 1982–1986 cho thấy vai trò của kế hoạch hóa cần được hiểu như thế nào?",
+    "answers": [
+      { "content": "Hoàn toàn loại bỏ", "correct": false },
+      { "content": "Tuyệt đối hóa", "correct": false },
+      { "content": "Kết hợp với các yếu tố thị trường", "correct": true },
+      { "content": "Thay bằng thị trường tự do", "correct": false }
+    ],
+    "explanation": "Kế hoạch hóa cần được kết hợp với các yếu tố thị trường."
+  },
+  {
+    "type": "singlechoice",
+    "content": "145. Một trong những nội dung cải tiến quản lý kinh tế được thực hiện là gì?",
+    "answers": [
+      { "content": "Giảm quyền tự chủ của cơ sở", "correct": false },
+      { "content": "Tăng cường bao cấp", "correct": false },
+      { "content": "Mở rộng quyền tự chủ trong sản xuất – kinh doanh", "correct": true },
+      { "content": "Bỏ kế hoạch hóa", "correct": false }
+    ],
+    "explanation": "Cải tiến quản lý theo hướng mở rộng quyền tự chủ cho cơ sở sản xuất – kinh doanh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "146. Trong giai đoạn này, khu vực nào được coi là nền tảng của nền kinh tế?",
+    "answers": [
+      { "content": "Kinh tế tư nhân", "correct": false },
+      { "content": "Kinh tế tập thể", "correct": false },
+      { "content": "Kinh tế nhà nước", "correct": true },
+      { "content": "Kinh tế có vốn nước ngoài", "correct": false }
+    ],
+    "explanation": "Kinh tế nhà nước tiếp tục được coi là nền tảng, giữ vai trò chủ đạo."
+  },
+  {
+    "type": "singlechoice",
+    "content": "147. Việc đổi mới kinh tế trước 1986 diễn ra trong điều kiện nào?",
+    "answers": [
+      { "content": "Thuận lợi về mọi mặt", "correct": false },
+      { "content": "Thiếu kinh nghiệm, thiếu cơ sở lý luận", "correct": true },
+      { "content": "Có sự hỗ trợ lớn từ bên ngoài", "correct": false },
+      { "content": "Kinh tế phát triển ổn định", "correct": false }
+    ],
+    "explanation": "Đổi mới diễn ra trong điều kiện thiếu kinh nghiệm và cơ sở lý luận đầy đủ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "148. Một nguyên nhân khiến đổi mới kinh tế giai đoạn này chưa đạt hiệu quả cao là gì?",
+    "answers": [
+      { "content": "Thiếu nguồn nhân lực", "correct": false },
+      { "content": "Chưa đổi mới đồng bộ các yếu tố của nền kinh tế", "correct": true },
+      { "content": "Thiếu tài nguyên", "correct": false },
+      { "content": "Thiếu thị trường", "correct": false }
+    ],
+    "explanation": "Đổi mới còn cục bộ, chưa đồng bộ nên hiệu quả hạn chế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "149. Trước đổi mới, quan hệ giữa Nhà nước và cơ sở sản xuất mang tính gì là chủ yếu?",
+    "answers": [
+      { "content": "Hợp tác bình đẳng", "correct": false },
+      { "content": "Hành chính – mệnh lệnh", "correct": true },
+      { "content": "Thị trường", "correct": false },
+      { "content": "Tự chủ", "correct": false }
+    ],
+    "explanation": "Quan hệ chủ yếu mang tính hành chính – mệnh lệnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "150. Thực tiễn 1982–1986 cho thấy muốn đổi mới thành công cần điều kiện nào quan trọng nhất?",
+    "answers": [
+      { "content": "Viện trợ nước ngoài", "correct": false },
+      { "content": "Đổi mới tư duy lãnh đạo kinh tế", "correct": true },
+      { "content": "Tư nhân hóa mạnh mẽ", "correct": false },
+      { "content": "Giảm vai trò Nhà nước", "correct": false }
+    ],
+    "explanation": "Đổi mới tư duy lãnh đạo kinh tế là điều kiện quyết định."
+  },
+  {
+    "type": "singlechoice",
+    "content": "151. Đại hội V đánh giá vai trò của con người trong phát triển kinh tế như thế nào?",
+    "answers": [
+      { "content": "Không quan trọng", "correct": false },
+      { "content": "Là yếu tố quyết định", "correct": true },
+      { "content": "Phụ thuộc Nhà nước", "correct": false },
+      { "content": "Phụ thuộc viện trợ", "correct": false }
+    ],
+    "explanation": "Con người được xác định là yếu tố quyết định trong phát triển kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "152. Một biểu hiện của khủng hoảng kinh tế – xã hội trước 1986 là gì?",
+    "answers": [
+      { "content": "Sản xuất dư thừa", "correct": false },
+      { "content": "Đời sống nhân dân gặp nhiều khó khăn", "correct": true },
+      { "content": "Thu nhập tăng cao", "correct": false },
+      { "content": "Xuất khẩu phát triển mạnh", "correct": false }
+    ],
+    "explanation": "Khủng hoảng thể hiện rõ ở đời sống nhân dân gặp nhiều khó khăn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "153. Trong giai đoạn 1982–1986, việc đổi mới kinh tế chủ yếu được triển khai theo cách nào?",
+    "answers": [
+      { "content": "Đồng loạt, toàn diện", "correct": false },
+      { "content": "Thử nghiệm, từng bước", "correct": true },
+      { "content": "Sao chép mô hình nước ngoài", "correct": false },
+      { "content": "Áp dụng kinh tế thị trường hoàn chỉnh", "correct": false }
+    ],
+    "explanation": "Đổi mới kinh tế được tiến hành theo phương thức thử nghiệm, từng bước."
+  },
+  {
+    "type": "singlechoice",
+    "content": "154. Đại hội V vẫn chưa giải quyết được triệt để vấn đề nào?",
+    "answers": [
+      { "content": "Tăng trưởng công nghiệp", "correct": false },
+      { "content": "Lạm phát và mất cân đối kinh tế", "correct": true },
+      { "content": "Quan hệ đối ngoại", "correct": false },
+      { "content": "Đào tạo nhân lực", "correct": false }
+    ],
+    "explanation": "Lạm phát và mất cân đối kinh tế vẫn kéo dài."
+  },
+  {
+    "type": "singlechoice",
+    "content": "155. Thực tiễn đổi mới giai đoạn này khẳng định điều gì?",
+    "answers": [
+      { "content": "Không cần đổi mới", "correct": false },
+      { "content": "Đổi mới là yêu cầu tất yếu", "correct": true },
+      { "content": "Kinh tế thị trường không phù hợp", "correct": false },
+      { "content": "Bao cấp là hiệu quả", "correct": false }
+    ],
+    "explanation": "Đổi mới là yêu cầu tất yếu của sự phát triển."
+  },
+  {
+    "type": "singlechoice",
+    "content": "156. Một hạn chế về mặt tư duy kinh tế của giai đoạn này là gì?",
+    "answers": [
+      { "content": "Tuyệt đối hóa vai trò thị trường", "correct": false },
+      { "content": "Chưa thoát khỏi mô hình cũ một cách căn bản", "correct": true },
+      { "content": "Bỏ kế hoạch hóa", "correct": false },
+      { "content": "Phủ nhận vai trò Nhà nước", "correct": false }
+    ],
+    "explanation": "Tư duy kinh tế vẫn chịu ảnh hưởng nặng của mô hình cũ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "157. Đổi mới kinh tế trước Đại hội VI có ý nghĩa như thế nào về mặt nhận thức?",
+    "answers": [
+      { "content": "Thay đổi hoàn toàn mục tiêu", "correct": false },
+      { "content": "Làm rõ sự cần thiết phải đổi mới toàn diện", "correct": true },
+      { "content": "Khẳng định mô hình kinh tế mới đã hoàn chỉnh", "correct": false },
+      { "content": "Phủ nhận CNXH", "correct": false }
+    ],
+    "explanation": "Thực tiễn làm rõ sự cần thiết phải đổi mới toàn diện."
+  },
+  {
+    "type": "singlechoice",
+    "content": "158. Giai đoạn 1982–1986 giúp Đảng rút ra bài học gì về quản lý kinh tế?",
+    "answers": [
+      { "content": "Quản lý bằng mệnh lệnh là hiệu quả", "correct": false },
+      { "content": "Phải tôn trọng quy luật kinh tế khách quan", "correct": true },
+      { "content": "Không cần kế hoạch hóa", "correct": false },
+      { "content": "Phải tư nhân hóa", "correct": false }
+    ],
+    "explanation": "Quản lý kinh tế phải tôn trọng các quy luật kinh tế khách quan."
+  },
+  {
+    "type": "singlechoice",
+    "content": "159. Đại hội V có đóng góp chủ yếu nào về mặt đường lối?",
+    "answers": [
+      { "content": "Đề ra đổi mới toàn diện", "correct": false },
+      { "content": "Hoàn thiện mô hình kinh tế thị trường", "correct": false },
+      { "content": "Bước đầu đổi mới tư duy kinh tế", "correct": true },
+      { "content": "Xóa bỏ bao cấp", "correct": false }
+    ],
+    "explanation": "Đại hội V có đóng góp quan trọng trong việc bước đầu đổi mới tư duy kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "160. Ý nghĩa lịch sử quan trọng của Đại hội V là gì?",
+    "answers": [
+      { "content": "Đưa đất nước ra khỏi khủng hoảng", "correct": false },
+      { "content": "Chuẩn bị tiền đề cho công cuộc đổi mới", "correct": true },
+      { "content": "Hoàn thành CNH", "correct": false },
+      { "content": "Hội nhập quốc tế", "correct": false }
+    ],
+    "explanation": "Đại hội V chuẩn bị tiền đề tư duy và thực tiễn cho công cuộc đổi mới."
+  },
+  {
+    "type": "singlechoice",
+    "content": "161. Đại hội V đánh giá nền kinh tế nước ta đầu những năm 80 đang ở trạng thái nào?",
+    "answers": [
+      { "content": "Phát triển ổn định", "correct": false },
+      { "content": "Có bước đột phá lớn", "correct": false },
+      { "content": "Lâm vào khủng hoảng kéo dài", "correct": true },
+      { "content": "Hội nhập sâu rộng", "correct": false }
+    ],
+    "explanation": "Đại hội V nhận định kinh tế lâm vào tình trạng khủng hoảng kéo dài, trì trệ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "162. Một trong những biểu hiện của cơ chế bao cấp trong lưu thông hàng hóa là gì?",
+    "answers": [
+      { "content": "Giá cả do thị trường quyết định", "correct": false },
+      { "content": "Tem phiếu phân phối", "correct": true },
+      { "content": "Tự do cạnh tranh", "correct": false },
+      { "content": "Đấu thầu công khai", "correct": false }
+    ],
+    "explanation": "Cơ chế bao cấp thể hiện rõ trong lưu thông qua chế độ tem phiếu phân phối."
+  },
+  {
+    "type": "singlechoice",
+    "content": "163. Trước đổi mới, việc phân phối sản phẩm chủ yếu mang tính gì?",
+    "answers": [
+      { "content": "Theo hiệu quả", "correct": false },
+      { "content": "Theo thị trường", "correct": false },
+      { "content": "Bình quân, cào bằng", "correct": true },
+      { "content": "Theo vốn góp", "correct": false }
+    ],
+    "explanation": "Phân phối mang tính bình quân, cào bằng, chưa gắn chặt với hiệu quả lao động."
+  },
+  {
+    "type": "singlechoice",
+    "content": "164. Giai đoạn 1982–1986 cho thấy đổi mới kinh tế phải gắn với yếu tố nào để bền vững?",
+    "answers": [
+      { "content": "Viện trợ quốc tế", "correct": false },
+      { "content": "Phát triển dịch vụ", "correct": false },
+      { "content": "Đổi mới cơ chế quản lý", "correct": true },
+      { "content": "Mở rộng xuất khẩu", "correct": false }
+    ],
+    "explanation": "Đổi mới chỉ bền vững khi gắn với đổi mới cơ chế quản lý kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "165. Đại hội V xác định cải tiến quản lý kinh tế nhằm mục tiêu chủ yếu nào?",
+    "answers": [
+      { "content": "Tăng thu ngân sách", "correct": false },
+      { "content": "Phát huy quyền chủ động của cơ sở", "correct": true },
+      { "content": "Mở cửa hội nhập", "correct": false },
+      { "content": "Tư nhân hóa nền kinh tế", "correct": false }
+    ],
+    "explanation": "Cải tiến quản lý nhằm phát huy quyền chủ động, sáng tạo của cơ sở."
+  },
+  {
+    "type": "singlechoice",
+    "content": "166. Trước 1986, doanh nghiệp nhà nước thường gặp hạn chế nào?",
+    "answers": [
+      { "content": "Thiếu thị trường quốc tế", "correct": false },
+      { "content": "Không chịu trách nhiệm lỗ – lãi", "correct": true },
+      { "content": "Thiếu lao động", "correct": false },
+      { "content": "Thiếu máy móc", "correct": false }
+    ],
+    "explanation": "Do bao cấp, nhiều doanh nghiệp nhà nước không gắn trách nhiệm lỗ – lãi với kết quả sản xuất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "167. Việc đổi mới nông nghiệp trước Đại hội VI chứng minh vai trò của yếu tố nào?",
+    "answers": [
+      { "content": "Tăng diện tích đất", "correct": false },
+      { "content": "Lợi ích kinh tế gắn với người lao động", "correct": true },
+      { "content": "Bao cấp của Nhà nước", "correct": false },
+      { "content": "Tăng lao động tập thể", "correct": false }
+    ],
+    "explanation": "Giao khoán gắn lợi ích với người lao động tạo động lực trực tiếp nâng năng suất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "168. Giai đoạn 1982–1986 cho thấy cải cách kinh tế không thể tách rời điều gì?",
+    "answers": [
+      { "content": "Cải cách quân sự", "correct": false },
+      { "content": "Cải cách giáo dục", "correct": false },
+      { "content": "Đổi mới tư duy lý luận", "correct": true },
+      { "content": "Đổi mới văn hóa", "correct": false }
+    ],
+    "explanation": "Cải cách kinh tế cần gắn với đổi mới tư duy, lý luận để định hướng đúng."
+  },
+  {
+    "type": "singlechoice",
+    "content": "169. Một nguyên nhân quan trọng làm cho đổi mới kinh tế giai đoạn này còn hạn chế là gì?",
+    "answers": [
+      { "content": "Thiếu vốn đầu tư", "correct": false },
+      { "content": "Chưa có mô hình lý luận hoàn chỉnh", "correct": true },
+      { "content": "Thiếu tài nguyên", "correct": false },
+      { "content": "Thiếu thị trường", "correct": false }
+    ],
+    "explanation": "Đổi mới còn thử nghiệm do thiếu mô hình và cơ sở lý luận hoàn chỉnh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "170. Trước đổi mới, động lực chủ yếu của người lao động là gì?",
+    "answers": [
+      { "content": "Lợi ích vật chất", "correct": false },
+      { "content": "Tinh thần tự giác", "correct": false },
+      { "content": "Mệnh lệnh hành chính", "correct": true },
+      { "content": "Cạnh tranh", "correct": false }
+    ],
+    "explanation": "Cơ chế mệnh lệnh hành chính chi phối mạnh, chưa khơi dậy đầy đủ động lực lợi ích."
+  },
+  {
+    "type": "singlechoice",
+    "content": "171. Đại hội V vẫn nhấn mạnh vai trò chủ đạo của khu vực kinh tế nào?",
+    "answers": [
+      { "content": "Kinh tế tư nhân", "correct": false },
+      { "content": "Kinh tế tập thể", "correct": false },
+      { "content": "Kinh tế nhà nước", "correct": true },
+      { "content": "Kinh tế có vốn nước ngoài", "correct": false }
+    ],
+    "explanation": "Đại hội V tiếp tục khẳng định kinh tế nhà nước giữ vai trò chủ đạo."
+  },
+  {
+    "type": "singlechoice",
+    "content": "172. Giai đoạn 1982–1986 cho thấy việc quản lý kinh tế bằng mệnh lệnh dẫn đến hậu quả gì?",
+    "answers": [
+      { "content": "Tăng hiệu quả", "correct": false },
+      { "content": "Giảm lạm phát", "correct": false },
+      { "content": "Làm méo mó các quan hệ kinh tế", "correct": true },
+      { "content": "Ổn định thị trường", "correct": false }
+    ],
+    "explanation": "Mệnh lệnh hành chính làm sai lệch quan hệ cung – cầu, giá – tiền, động lực."
+  },
+  {
+    "type": "singlechoice",
+    "content": "173. Một biểu hiện rõ của khủng hoảng kinh tế – xã hội trước 1986 là gì?",
+    "answers": [
+      { "content": "Sản xuất dư thừa", "correct": false },
+      { "content": "Hàng hóa khan hiếm kéo dài", "correct": true },
+      { "content": "Thu nhập tăng cao", "correct": false },
+      { "content": "Xuất khẩu phát triển", "correct": false }
+    ],
+    "explanation": "Khủng hoảng thể hiện ở khan hiếm hàng hóa kéo dài và lưu thông ách tắc."
+  },
+  {
+    "type": "singlechoice",
+    "content": "174. Việc cải tiến quản lý kinh tế sau Đại hội V chủ yếu theo hướng nào?",
+    "answers": [
+      { "content": "Tăng bao cấp", "correct": false },
+      { "content": "Giao quyền tự chủ từng phần", "correct": true },
+      { "content": "Xóa bỏ vai trò Nhà nước", "correct": false },
+      { "content": "Áp dụng thị trường hoàn chỉnh", "correct": false }
+    ],
+    "explanation": "Cải tiến theo hướng giao quyền tự chủ từng phần cho cơ sở sản xuất – kinh doanh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "175. Giai đoạn 1982–1986 chứng minh điều gì về đổi mới kinh tế?",
+    "answers": [
+      { "content": "Không cần đổi mới", "correct": false },
+      { "content": "Đổi mới cục bộ là đủ", "correct": false },
+      { "content": "Cần đổi mới toàn diện và đồng bộ", "correct": true },
+      { "content": "Bao cấp vẫn phù hợp", "correct": false }
+    ],
+    "explanation": "Đổi mới cục bộ không đủ, cần đổi mới toàn diện và đồng bộ."
+  },
+  {
+    "type": "singlechoice",
+    "content": "176. Một hạn chế lớn của cải cách kinh tế trước 1986 là gì?",
+    "answers": [
+      { "content": "Thiếu quyết tâm chính trị", "correct": false },
+      { "content": "Thiếu đổi mới đồng bộ các yếu tố", "correct": true },
+      { "content": "Thiếu nguồn nhân lực", "correct": false },
+      { "content": "Thiếu tài nguyên", "correct": false }
+    ],
+    "explanation": "Các biện pháp đổi mới còn thiếu đồng bộ nên hiệu quả hạn chế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "177. Trước đổi mới, mối quan hệ giữa Nhà nước và doanh nghiệp mang tính gì là chủ yếu?",
+    "answers": [
+      { "content": "Hợp tác bình đẳng", "correct": false },
+      { "content": "Thị trường", "correct": false },
+      { "content": "Hành chính – mệnh lệnh", "correct": true },
+      { "content": "Tự chủ", "correct": false }
+    ],
+    "explanation": "Quan hệ chủ yếu là hành chính – mệnh lệnh theo cơ chế kế hoạch hóa tập trung."
+  },
+  {
+    "type": "singlechoice",
+    "content": "178. Đại hội V góp phần quan trọng trong việc hình thành nhận thức nào?",
+    "answers": [
+      { "content": "Kinh tế thị trường là mục tiêu cuối cùng", "correct": false },
+      { "content": "Cần đổi mới tư duy kinh tế", "correct": true },
+      { "content": "Phải tư nhân hóa toàn bộ", "correct": false },
+      { "content": "Giảm vai trò lãnh đạo của Đảng", "correct": false }
+    ],
+    "explanation": "Đại hội V bước đầu đặt nền cho đổi mới tư duy kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "179. Thực tiễn đổi mới trước 1986 giúp Đảng nhận ra điều gì về CNXH ở Việt Nam?",
+    "answers": [
+      { "content": "CNXH đồng nhất với bao cấp", "correct": false },
+      { "content": "CNXH không thể có yếu tố thị trường", "correct": false },
+      { "content": "CNXH phải phù hợp quy luật kinh tế", "correct": true },
+      { "content": "CNXH không cần kế hoạch", "correct": false }
+    ],
+    "explanation": "Thực tiễn khẳng định xây dựng CNXH phải tôn trọng quy luật kinh tế khách quan."
+  },
+  {
+    "type": "singlechoice",
+    "content": "180. Ý nghĩa thực tiễn quan trọng nhất của đổi mới kinh tế trước Đại hội VI là gì?",
+    "answers": [
+      { "content": "Đưa kinh tế tăng trưởng nhanh", "correct": false },
+      { "content": "Giải quyết triệt để khủng hoảng", "correct": false },
+      { "content": "Tích lũy kinh nghiệm thực tiễn cho đổi mới", "correct": true },
+      { "content": "Hoàn thiện mô hình kinh tế mới", "correct": false }
+    ],
+    "explanation": "Giai đoạn này tích lũy kinh nghiệm thực tiễn cho đường lối đổi mới toàn diện."
+  },
+  {
+    "type": "singlechoice",
+    "content": "181. Giai đoạn 1982–1986 cho thấy việc đổi mới không thể thành công nếu thiếu yếu tố nào?",
+    "answers": [
+      { "content": "Viện trợ quốc tế", "correct": false },
+      { "content": "Đổi mới tư duy lãnh đạo", "correct": true },
+      { "content": "Phát triển dịch vụ", "correct": false },
+      { "content": "Mở rộng xuất khẩu", "correct": false }
+    ],
+    "explanation": "Đổi mới tư duy lãnh đạo, quản lý là điều kiện then chốt để đổi mới thành công."
+  },
+  {
+    "type": "singlechoice",
+    "content": "182. Một biểu hiện của tư duy kinh tế cũ là gì?",
+    "answers": [
+      { "content": "Tôn trọng quy luật giá trị", "correct": false },
+      { "content": "Xem nhẹ hiệu quả kinh tế", "correct": true },
+      { "content": "Đề cao lợi ích người lao động", "correct": false },
+      { "content": "Khuyến khích cạnh tranh", "correct": false }
+    ],
+    "explanation": "Tư duy cũ coi nhẹ hiệu quả, chưa coi trọng hạch toán kinh doanh."
+  },
+  {
+    "type": "singlechoice",
+    "content": "183. Đại hội V đánh giá vai trò của con người trong phát triển kinh tế như thế nào?",
+    "answers": [
+      { "content": "Thứ yếu", "correct": false },
+      { "content": "Phụ thuộc Nhà nước", "correct": false },
+      { "content": "Là yếu tố quyết định", "correct": true },
+      { "content": "Phụ thuộc viện trợ", "correct": false }
+    ],
+    "explanation": "Con người được xác định là yếu tố quyết định trong phát triển kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "184. Việc đổi mới nông nghiệp trước 1986 cho thấy cần làm gì để tăng năng suất?",
+    "answers": [
+      { "content": "Tăng bao cấp", "correct": false },
+      { "content": "Giao quyền gắn với lợi ích", "correct": true },
+      { "content": "Tăng mệnh lệnh hành chính", "correct": false },
+      { "content": "Giảm vai trò người lao động", "correct": false }
+    ],
+    "explanation": "Giao quyền và gắn lợi ích với người lao động tạo động lực tăng năng suất."
+  },
+  {
+    "type": "singlechoice",
+    "content": "185. Giai đoạn 1982–1986 chứng minh không thể phát triển kinh tế nếu bỏ qua yếu tố nào?",
+    "answers": [
+      { "content": "Kỷ luật hành chính", "correct": false },
+      { "content": "Quy luật kinh tế khách quan", "correct": true },
+      { "content": "Viện trợ quốc tế", "correct": false },
+      { "content": "Xuất khẩu", "correct": false }
+    ],
+    "explanation": "Phát triển kinh tế phải tôn trọng các quy luật kinh tế khách quan."
+  },
+  {
+    "type": "singlechoice",
+    "content": "186. Một bài học lớn rút ra từ cải cách kinh tế trước 1986 là gì?",
+    "answers": [
+      { "content": "Phải cải cách nhanh", "correct": false },
+      { "content": "Phải cải cách từng phần", "correct": false },
+      { "content": "Phải cải cách đồng bộ, có lộ trình", "correct": true },
+      { "content": "Phải sao chép mô hình nước ngoài", "correct": false }
+    ],
+    "explanation": "Cải cách cần đồng bộ, có lộ trình và phù hợp điều kiện thực tiễn."
+  },
+  {
+    "type": "singlechoice",
+    "content": "187. Đại hội V có ý nghĩa chủ yếu nào đối với tiến trình đổi mới?",
+    "answers": [
+      { "content": "Đề ra đổi mới toàn diện", "correct": false },
+      { "content": "Hoàn thiện mô hình kinh tế mới", "correct": false },
+      { "content": "Chuẩn bị tiền đề tư duy và thực tiễn", "correct": true },
+      { "content": "Đưa kinh tế phát triển nhanh", "correct": false }
+    ],
+    "explanation": "Đại hội V là bước chuẩn bị quan trọng về tư duy và thực tiễn cho đổi mới."
+  },
+  {
+    "type": "singlechoice",
+    "content": "188. Giai đoạn 1982–1986 góp phần làm rõ vai trò của yếu tố nào trong quản lý kinh tế?",
+    "answers": [
+      { "content": "Quân sự", "correct": false },
+      { "content": "Văn hóa", "correct": false },
+      { "content": "Thị trường", "correct": true },
+      { "content": "Đối ngoại", "correct": false }
+    ],
+    "explanation": "Thực tiễn làm rõ cần thừa nhận và vận dụng yếu tố thị trường trong quản lý kinh tế."
+  },
+  {
+    "type": "singlechoice",
+    "content": "189. Trước Đại hội VI, đổi mới kinh tế được tiến hành chủ yếu theo cách nào?",
+    "answers": [
+      { "content": "Toàn diện, đồng bộ", "correct": false },
+      { "content": "Thử nghiệm, từng bước", "correct": true },
+      { "content": "Áp dụng mô hình hoàn chỉnh", "correct": false },
+      { "content": "Mở cửa toàn diện", "correct": false }
+    ],
+    "explanation": "Đổi mới trước Đại hội VI chủ yếu mang tính thử nghiệm, từng bước."
+  },
+  {
+    "type": "singlechoice",
+    "content": "190. Nhận định nào phản ánh đúng ý nghĩa lịch sử của giai đoạn 1982–1986?",
+    "answers": [
+      { "content": "Chấm dứt hoàn toàn bao cấp", "correct": false },
+      { "content": "Hoàn thành CNH", "correct": false },
+      { "content": "Tạo bước chuyển căn bản về nhận thức đổi mới", "correct": true },
+      { "content": "Đưa đất nước thoát khủng hoảng", "correct": false }
+    ],
+    "explanation": "Giai đoạn 1982–1986 tạo bước chuyển quan trọng về nhận thức, chuẩn bị cho đổi mới toàn diện."
+  }
+
+
+]
